@@ -28,11 +28,10 @@ By the end of  this course students will be able to
 Students will have the practical skills and theoretical knowledge needed to design, manage, secure, and optimize SQL Server databases, preparing them for real-world database administration and development roles.
 
 
-# Course Requirements 
-1.sql server.
+# Course Requirements and there Link
+1.sql server. https://www.microsoft.com/en/sql-server/sql-server-downloads
 
 2. SQL Server Management Studio. https://learn.microsoft.com/en-us/ssms/install/install.
    
-4. Visual Studio Code or Vs code.
+4. Visual Studio Code or Vs code.  https://code.visualstudio.com/thank-you?dv=win64user.
 
-# Links to download
