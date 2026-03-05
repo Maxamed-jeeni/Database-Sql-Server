@@ -35,3 +35,6 @@ Students will have the practical skills and theoretical knowledge needed to desi
    
 4. Visual Studio Code or Vs code.  https://code.visualstudio.com/thank-you?dv=win64user.
 
+5. <img width="424" height="200" alt="image" src="https://github.com/user-attachments/assets/06259d3e-d59f-4668-9374-b8662b5c29cf" />
+
+
