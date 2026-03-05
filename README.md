@@ -34,7 +34,8 @@ Students will have the practical skills and theoretical knowledge needed to desi
 <img width="424" height="200" alt="image" src="https://github.com/user-attachments/assets/06259d3e-d59f-4668-9374-b8662b5c29cf" />
 
 2. SQL Server Management Studio. https://learn.microsoft.com/en-us/ssms/install/install.
-   <img width="416" height="348" alt="image" src="https://github.com/user-attachments/assets/8b10fd6b-dae5-436f-b372-7d0c49e88da7" />
+   <img width="475" height="365" alt="image" src="https://github.com/user-attachments/assets/0037872d-b2fc-4ebc-bccc-11ee99d211b2" />
+
 
 
 3. Visual Studio Code or Vs code.  https://code.visualstudio.com/thank-you?dv=win64user.
