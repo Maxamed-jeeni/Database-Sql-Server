@@ -29,8 +29,8 @@ Students will have the practical skills and theoretical knowledge needed to desi
 
 
 # Course Requirements 
-    1.sql server 
-    2. SQL Server Management Studio. https://learn.microsoft.com/en-us/ssms/install/install
-    3. Visual Studio Code or Vs code.
+1.sql server 
+2. SQL Server Management Studio. https://learn.microsoft.com/en-us/ssms/install/install
+3. Visual Studio Code or Vs code.
 
 # Links to download
